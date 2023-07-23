@@ -1,0 +1,25 @@
+.container {
+  margin: auto;
+  width: 50%;
+}
+
+input, .section {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.bar {
+  display: flex;
+  height: 10px;
+}
+
+.section {
+  flex: 1;
+}
